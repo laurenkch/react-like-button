@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-like-button/static/css/main.1e9098da.css",
+    "main.js": "/react-like-button/static/js/main.0f194ee6.js",
+    "static/js/787.2428fb39.chunk.js": "/react-like-button/static/js/787.2428fb39.chunk.js",
+    "index.html": "/react-like-button/index.html",
+    "main.1e9098da.css.map": "/react-like-button/static/css/main.1e9098da.css.map",
+    "main.0f194ee6.js.map": "/react-like-button/static/js/main.0f194ee6.js.map",
+    "787.2428fb39.chunk.js.map": "/react-like-button/static/js/787.2428fb39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e9098da.css",
+    "static/js/main.0f194ee6.js"
+  ]
+}
